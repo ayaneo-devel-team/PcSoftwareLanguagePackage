@@ -30,7 +30,6 @@ filename （必填）语言文件
 iconFile   （可选）语言图标。AYASpace 为一些国家内置了语言图标。如果您的国家/地区不可用，您可以设置此选项。
 
 内置语言图标包括：`zh_CN` / `zh_TW` / `en_US` / `fr_FR` / `it_IT` / `ja_JP` / `ko_KR` / `pl_PL` / `ru_RU`
-﻿
 
 
 
