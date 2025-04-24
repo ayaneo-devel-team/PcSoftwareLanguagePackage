@@ -1,0 +1,17 @@
+[
+    {
+        "language": "zh_CN",
+        "name": "简体中文",
+        "filename": "zh_CN.json"
+    },
+    {
+        "language": "zh_TW",
+        "name": "繁體中文",
+        "filename": "zh_TW.json"
+    },
+    {
+        "language": "en_US",
+        "name": "English",
+        "filename": "en_US.json"
+    }
+]
